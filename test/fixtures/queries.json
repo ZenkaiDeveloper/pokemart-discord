@@ -1,0 +1,62 @@
+[
+  {
+    "q": "charizard base set",
+    "expect_ss": "pokemon-base-set",
+    "expect_cs": "charizard-4",
+    "expect_name_includes": "Charizard #4"
+  },
+  {
+    "q": "blastoise base set",
+    "expect_ss": "pokemon-base-set",
+    "expect_cs": "blastoise-2",
+    "expect_name_includes": "Blastoise"
+  },
+  {
+    "q": "venusaur base set",
+    "expect_ss": "pokemon-base-set",
+    "expect_cs": "venusaur-15",
+    "expect_name_includes": "Venusaur"
+  },
+  {
+    "q": "pikachu base set",
+    "expect_ss": "pokemon-base-set",
+    "expect_cs": "pikachu-58",
+    "expect_name_includes": "Pikachu"
+  },
+  {
+    "q": "mewtwo base set",
+    "expect_ss": "pokemon-base-set",
+    "expect_cs": "mewtwo-10",
+    "expect_name_includes": "Mewtwo"
+  },
+  {
+    "q": "umbreon dark explorers",
+    "expect_ss": "pokemon-dark-explorers",
+    "expect_cs": "umbreon-61",
+    "expect_name_includes": "Umbreon"
+  },
+  {
+    "q": "lugia neo genesis",
+    "expect_ss": "pokemon-neo-genesis",
+    "expect_cs": "lugia-9",
+    "expect_name_includes": "Lugia"
+  },
+  {
+    "q": "pokemon-base-set/charizard-4",
+    "expect_ss": "pokemon-base-set",
+    "expect_cs": "charizard-4",
+    "expect_name_includes": "Charizard #4"
+  },
+  {
+    "q": "dark charizard team rocket",
+    "expect_ss": "pokemon-team-rocket",
+    "expect_cs": "dark-charizard-4",
+    "expect_name_includes": "Dark Charizard"
+  },
+  {
+    "q": "misty gym heroes",
+    "expect_ss": "pokemon-gym-heroes",
+    "expect_cs": "misty-18",
+    "expect_name_includes": "Misty"
+  }
+]

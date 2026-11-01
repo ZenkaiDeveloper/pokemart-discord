@@ -1,0 +1,1494 @@
+{
+  "meta": {
+    "trimmed": true
+  },
+  "cards": [
+    {
+      "t": "Abra #43",
+      "ss": "pokemon-base-set",
+      "cs": "abra-43",
+      "href": "pokemon-base-set/abra-43",
+      "pid": "pm_26ujvfyetc"
+    },
+    {
+      "t": "Alakazam #1",
+      "ss": "pokemon-base-set",
+      "cs": "alakazam-1",
+      "href": "pokemon-base-set/alakazam-1",
+      "pid": "pm_bleh4x5bnn",
+      "p": 3500,
+      "sb": true
+    },
+    {
+      "t": "Arcanine #23",
+      "ss": "pokemon-base-set",
+      "cs": "arcanine-23",
+      "href": "pokemon-base-set/arcanine-23",
+      "pid": "pm_qc7cd6tiht"
+    },
+    {
+      "t": "Beedrill #17",
+      "ss": "pokemon-base-set",
+      "cs": "beedrill-17",
+      "href": "pokemon-base-set/beedrill-17",
+      "pid": "pm_cjanbfki4x",
+      "p": 201,
+      "sb": true
+    },
+    {
+      "t": "Bill #91",
+      "ss": "pokemon-base-set",
+      "cs": "bill-91",
+      "href": "pokemon-base-set/bill-91",
+      "pid": "pm_a4syczypmh"
+    },
+    {
+      "t": "Blastoise #2",
+      "ss": "pokemon-base-set",
+      "cs": "blastoise-2",
+      "href": "pokemon-base-set/blastoise-2",
+      "pid": "pm_el3rqtvjl6",
+      "p": 6150,
+      "sb": true
+    },
+    {
+      "t": "Blastoise [Shadowless] #2",
+      "ss": "pokemon-base-set",
+      "cs": "blastoise-shadowless-2",
+      "href": "pokemon-base-set/blastoise-shadowless-2",
+      "pid": "pm_lcekep5wlu"
+    },
+    {
+      "t": "Bulbasaur #44",
+      "ss": "pokemon-base-set",
+      "cs": "bulbasaur-44",
+      "href": "pokemon-base-set/bulbasaur-44",
+      "pid": "pm_6e4oeg7n5o",
+      "p": 100,
+      "sb": true
+    },
+    {
+      "t": "Bulbasaur [1st Edition] #44",
+      "ss": "pokemon-base-set",
+      "cs": "bulbasaur-1st-edition-44",
+      "href": "pokemon-base-set/bulbasaur-1st-edition-44",
+      "pid": "pm_joawxhwsnx"
+    },
+    {
+      "t": "Chansey #3",
+      "ss": "pokemon-base-set",
+      "cs": "chansey-3",
+      "href": "pokemon-base-set/chansey-3",
+      "pid": "pm_2jkxtdt7ic",
+      "p": 2425,
+      "sb": true
+    },
+    {
+      "t": "Chansey [Shadowless] #3",
+      "ss": "pokemon-base-set",
+      "cs": "chansey-shadowless-3",
+      "href": "pokemon-base-set/chansey-shadowless-3",
+      "pid": "pm_sb3yznsclo"
+    },
+    {
+      "t": "Charizard #4",
+      "ss": "pokemon-base-set",
+      "cs": "charizard-4",
+      "href": "pokemon-base-set/charizard-4",
+      "pid": "pm_pzp42tw5u6",
+      "p": 30000,
+      "sb": true
+    },
+    {
+      "t": "Charizard [Shadowless] #4",
+      "ss": "pokemon-base-set",
+      "cs": "charizard-shadowless-4",
+      "href": "pokemon-base-set/charizard-shadowless-4",
+      "pid": "pm_lxreqah4k5"
+    },
+    {
+      "t": "Charmander #46",
+      "ss": "pokemon-base-set",
+      "cs": "charmander-46",
+      "href": "pokemon-base-set/charmander-46",
+      "pid": "pm_fiem4jvvcv"
+    },
+    {
+      "t": "Charmander [Shadowless] #46",
+      "ss": "pokemon-base-set",
+      "cs": "charmander-shadowless-46",
+      "href": "pokemon-base-set/charmander-shadowless-46",
+      "pid": "pm_q3dy4bj44k"
+    },
+    {
+      "t": "Charmeleon #24",
+      "ss": "pokemon-base-set",
+      "cs": "charmeleon-24",
+      "href": "pokemon-base-set/charmeleon-24",
+      "pid": "pm_bdtl3prysx",
+      "p": 125,
+      "sb": true
+    },
+    {
+      "t": "Clefairy #5",
+      "ss": "pokemon-base-set",
+      "cs": "clefairy-5",
+      "href": "pokemon-base-set/clefairy-5",
+      "pid": "pm_idiodomzky"
+    },
+    {
+      "t": "Clefairy Doll #70",
+      "ss": "pokemon-base-set",
+      "cs": "clefairy-doll-70",
+      "href": "pokemon-base-set/clefairy-doll-70",
+      "pid": "pm_lgdnbi37h3"
+    },
+    {
+      "t": "Computer Search #71",
+      "ss": "pokemon-base-set",
+      "cs": "computer-search-71",
+      "href": "pokemon-base-set/computer-search-71",
+      "pid": "pm_attcfqrviq"
+    },
+    {
+      "t": "Defender #80",
+      "ss": "pokemon-base-set",
+      "cs": "defender-80",
+      "href": "pokemon-base-set/defender-80",
+      "pid": "pm_i56mzmklmv"
+    },
+    {
+      "t": "Dewgong [1999-2000] #25",
+      "ss": "pokemon-base-set",
+      "cs": "dewgong-1999-2000-25",
+      "href": "pokemon-base-set/dewgong-1999-2000-25",
+      "pid": "pm_ign2jzujfe"
+    },
+    {
+      "t": "Diglett #47",
+      "ss": "pokemon-base-set",
+      "cs": "diglett-47",
+      "href": "pokemon-base-set/diglett-47",
+      "pid": "pm_enhcxredla"
+    },
+    {
+      "t": "Double Colorless Energy #96",
+      "ss": "pokemon-base-set",
+      "cs": "double-colorless-energy-96",
+      "href": "pokemon-base-set/double-colorless-energy-96",
+      "pid": "pm_ftsmn3lmca"
+    },
+    {
+      "t": "Dratini [Shadowless] #26",
+      "ss": "pokemon-base-set",
+      "cs": "dratini-shadowless-26",
+      "href": "pokemon-base-set/dratini-shadowless-26",
+      "pid": "pm_vdakbb66bh"
+    },
+    {
+      "t": "Drowzee #49",
+      "ss": "pokemon-base-set",
+      "cs": "drowzee-49",
+      "href": "pokemon-base-set/drowzee-49",
+      "pid": "pm_2lkvv677wy"
+    },
+    {
+      "t": "Energy Retrieval #81",
+      "ss": "pokemon-base-set",
+      "cs": "energy-retrieval-81",
+      "href": "pokemon-base-set/energy-retrieval-81",
+      "pid": "pm_2cx4h6hifn"
+    },
+    {
+      "t": "Farfetch'd #27",
+      "ss": "pokemon-base-set",
+      "cs": "farfetch'd-27",
+      "href": "pokemon-base-set/farfetch'd-27",
+      "pid": "pm_gqveivsfhw"
+    },
+    {
+      "t": "Fire Energy [1st Edition] #98",
+      "ss": "pokemon-base-set",
+      "cs": "fire-energy-1st-edition-98",
+      "href": "pokemon-base-set/fire-energy-1st-edition-98",
+      "pid": "pm_fbdksjeetp"
+    },
+    {
+      "t": "Gastly #50",
+      "ss": "pokemon-base-set",
+      "cs": "gastly-50",
+      "href": "pokemon-base-set/gastly-50",
+      "pid": "pm_gugle3y5ll"
+    },
+    {
+      "t": "Grass Energy #99",
+      "ss": "pokemon-base-set",
+      "cs": "grass-energy-99",
+      "href": "pokemon-base-set/grass-energy-99",
+      "pid": "pm_qn4dtgk3as"
+    },
+    {
+      "t": "Growlithe #28",
+      "ss": "pokemon-base-set",
+      "cs": "growlithe-28",
+      "href": "pokemon-base-set/growlithe-28",
+      "pid": "pm_joh4q3foda",
+      "p": 112,
+      "sb": true
+    },
+    {
+      "t": "Gyarados #6",
+      "ss": "pokemon-base-set",
+      "cs": "gyarados-6",
+      "href": "pokemon-base-set/gyarados-6",
+      "pid": "pm_kj7dz6btvf",
+      "p": 1291,
+      "sb": true
+    },
+    {
+      "t": "Gyarados [Shadowless] #6",
+      "ss": "pokemon-base-set",
+      "cs": "gyarados-shadowless-6",
+      "href": "pokemon-base-set/gyarados-shadowless-6",
+      "pid": "pm_7hajrqi4bc"
+    },
+    {
+      "t": "Haunter #29",
+      "ss": "pokemon-base-set",
+      "cs": "haunter-29",
+      "href": "pokemon-base-set/haunter-29",
+      "pid": "pm_5i6tly5sb6",
+      "p": 102,
+      "sb": true
+    },
+    {
+      "t": "Hitmonchan #7",
+      "ss": "pokemon-base-set",
+      "cs": "hitmonchan-7",
+      "href": "pokemon-base-set/hitmonchan-7",
+      "pid": "pm_g7b25v62sr",
+      "p": 675,
+      "sb": true
+    },
+    {
+      "t": "Ivysaur #30",
+      "ss": "pokemon-base-set",
+      "cs": "ivysaur-30",
+      "href": "pokemon-base-set/ivysaur-30",
+      "pid": "pm_uktfjzrtbj"
+    },
+    {
+      "t": "Jynx #31",
+      "ss": "pokemon-base-set",
+      "cs": "jynx-31",
+      "href": "pokemon-base-set/jynx-31",
+      "pid": "pm_qvpefxmj7h"
+    },
+    {
+      "t": "Kadabra #32",
+      "ss": "pokemon-base-set",
+      "cs": "kadabra-32",
+      "href": "pokemon-base-set/kadabra-32",
+      "pid": "pm_giummzamay"
+    },
+    {
+      "t": "Machamp [1st Edition] #8",
+      "ss": "pokemon-base-set",
+      "cs": "machamp-1st-edition-8",
+      "href": "pokemon-base-set/machamp-1st-edition-8",
+      "pid": "pm_5qz42wocbf",
+      "p": 1660,
+      "sb": true
+    },
+    {
+      "t": "Machamp [Shadowless] #8",
+      "ss": "pokemon-base-set",
+      "cs": "machamp-shadowless-8",
+      "href": "pokemon-base-set/machamp-shadowless-8",
+      "pid": "pm_opbcsmpfym"
+    },
+    {
+      "t": "Machoke #34",
+      "ss": "pokemon-base-set",
+      "cs": "machoke-34",
+      "href": "pokemon-base-set/machoke-34",
+      "pid": "pm_nvrs3cy6ty"
+    },
+    {
+      "t": "Machop #52",
+      "ss": "pokemon-base-set",
+      "cs": "machop-52",
+      "href": "pokemon-base-set/machop-52",
+      "pid": "pm_5cphgknau3",
+      "p": 99,
+      "sb": true
+    },
+    {
+      "t": "Magikarp #35",
+      "ss": "pokemon-base-set",
+      "cs": "magikarp-35",
+      "href": "pokemon-base-set/magikarp-35",
+      "pid": "pm_jt7qdotlw2"
+    },
+    {
+      "t": "Magneton #9",
+      "ss": "pokemon-base-set",
+      "cs": "magneton-9",
+      "href": "pokemon-base-set/magneton-9",
+      "pid": "pm_66f3vclpa4"
+    },
+    {
+      "t": "Mewtwo #10",
+      "ss": "pokemon-base-set",
+      "cs": "mewtwo-10",
+      "href": "pokemon-base-set/mewtwo-10",
+      "pid": "pm_mx5xqat3vh",
+      "p": 2275,
+      "sb": true
+    },
+    {
+      "t": "Mewtwo [Shadowless] #10",
+      "ss": "pokemon-base-set",
+      "cs": "mewtwo-shadowless-10",
+      "href": "pokemon-base-set/mewtwo-shadowless-10",
+      "pid": "pm_l5skybfbgu"
+    },
+    {
+      "t": "Nidoking #11",
+      "ss": "pokemon-base-set",
+      "cs": "nidoking-11",
+      "href": "pokemon-base-set/nidoking-11",
+      "pid": "pm_nfenozc3s7",
+      "p": 1105,
+      "sb": true
+    },
+    {
+      "t": "Nidoran #55",
+      "ss": "pokemon-base-set",
+      "cs": "nidoran-55",
+      "href": "pokemon-base-set/nidoran-55",
+      "pid": "pm_5dflhemhbv"
+    },
+    {
+      "t": "Ninetales #12",
+      "ss": "pokemon-base-set",
+      "cs": "ninetales-12",
+      "href": "pokemon-base-set/ninetales-12",
+      "pid": "pm_gdfntln52i"
+    },
+    {
+      "t": "Ninetales [1999-2000] #12",
+      "ss": "pokemon-base-set",
+      "cs": "ninetales-1999-2000-12",
+      "href": "pokemon-base-set/ninetales-1999-2000-12",
+      "pid": "pm_yervaf2qij",
+      "p": 2873,
+      "sb": true
+    },
+    {
+      "t": "Pidgey #57",
+      "ss": "pokemon-base-set",
+      "cs": "pidgey-57",
+      "href": "pokemon-base-set/pidgey-57",
+      "pid": "pm_gl6p2cmbm5"
+    },
+    {
+      "t": "Pikachu #58",
+      "ss": "pokemon-base-set",
+      "cs": "pikachu-58",
+      "href": "pokemon-base-set/pikachu-58",
+      "pid": "pm_j4osscrfok"
+    },
+    {
+      "t": "Pikachu [1999-2000] #58",
+      "ss": "pokemon-base-set",
+      "cs": "pikachu-1999-2000-58",
+      "href": "pokemon-base-set/pikachu-1999-2000-58",
+      "pid": "pm_fq36lasfj5",
+      "p": 199,
+      "sb": true
+    },
+    {
+      "t": "Pikachu [1st Edition Red Cheeks] #58",
+      "ss": "pokemon-base-set",
+      "cs": "pikachu-1st-edition-red-cheeks-58",
+      "href": "pokemon-base-set/pikachu-1st-edition-red-cheeks-58",
+      "pid": "pm_xc3xkvfupn"
+    },
+    {
+      "t": "PlusPower #84",
+      "ss": "pokemon-base-set",
+      "cs": "pluspower-84",
+      "href": "pokemon-base-set/pluspower-84",
+      "pid": "pm_n6sjgv3uc3"
+    },
+    {
+      "t": "Pokemon Center [1st Edition] #85",
+      "ss": "pokemon-base-set",
+      "cs": "pokemon-center-1st-edition-85",
+      "href": "pokemon-base-set/pokemon-center-1st-edition-85",
+      "pid": "pm_swoj2ng5iu"
+    },
+    {
+      "t": "Poliwag [Shadowless] #59",
+      "ss": "pokemon-base-set",
+      "cs": "poliwag-shadowless-59",
+      "href": "pokemon-base-set/poliwag-shadowless-59",
+      "pid": "pm_md5u5xerad"
+    },
+    {
+      "t": "Potion #94",
+      "ss": "pokemon-base-set",
+      "cs": "potion-94",
+      "href": "pokemon-base-set/potion-94",
+      "pid": "pm_gaqce5wk6z"
+    },
+    {
+      "t": "Potion [1st Edition] #94",
+      "ss": "pokemon-base-set",
+      "cs": "potion-1st-edition-94",
+      "href": "pokemon-base-set/potion-1st-edition-94",
+      "pid": "pm_gdkzacyhyc"
+    },
+    {
+      "t": "Professor Oak [1st Edition] #88",
+      "ss": "pokemon-base-set",
+      "cs": "professor-oak-1st-edition-88",
+      "href": "pokemon-base-set/professor-oak-1st-edition-88",
+      "pid": "pm_3p2fvax7wd"
+    },
+    {
+      "t": "Raichu #14",
+      "ss": "pokemon-base-set",
+      "cs": "raichu-14",
+      "href": "pokemon-base-set/raichu-14",
+      "pid": "pm_agouxzxo5q",
+      "p": 1950,
+      "sb": true
+    },
+    {
+      "t": "Raticate [1999-2000] #40",
+      "ss": "pokemon-base-set",
+      "cs": "raticate-1999-2000-40",
+      "href": "pokemon-base-set/raticate-1999-2000-40",
+      "pid": "pm_shu3vbkpk2"
+    },
+    {
+      "t": "Raticate [1st Edition] #40",
+      "ss": "pokemon-base-set",
+      "cs": "raticate-1st-edition-40",
+      "href": "pokemon-base-set/raticate-1st-edition-40",
+      "pid": "pm_qejo37e6lg"
+    },
+    {
+      "t": "Rattata #61",
+      "ss": "pokemon-base-set",
+      "cs": "rattata-61",
+      "href": "pokemon-base-set/rattata-61",
+      "pid": "pm_tmqp7hlpio"
+    },
+    {
+      "t": "Revive #89",
+      "ss": "pokemon-base-set",
+      "cs": "revive-89",
+      "href": "pokemon-base-set/revive-89",
+      "pid": "pm_bhzzrzvafq"
+    },
+    {
+      "t": "Seel [1st Edition] #41",
+      "ss": "pokemon-base-set",
+      "cs": "seel-1st-edition-41",
+      "href": "pokemon-base-set/seel-1st-edition-41",
+      "pid": "pm_h7wodmqm5h"
+    },
+    {
+      "t": "Squirtle #63",
+      "ss": "pokemon-base-set",
+      "cs": "squirtle-63",
+      "href": "pokemon-base-set/squirtle-63",
+      "pid": "pm_gk6hjo4orb",
+      "p": 232,
+      "sb": true
+    },
+    {
+      "t": "Squirtle [Shadowless] #63",
+      "ss": "pokemon-base-set",
+      "cs": "squirtle-shadowless-63",
+      "href": "pokemon-base-set/squirtle-shadowless-63",
+      "pid": "pm_ug5lmobqfb"
+    },
+    {
+      "t": "Staryu #65",
+      "ss": "pokemon-base-set",
+      "cs": "staryu-65",
+      "href": "pokemon-base-set/staryu-65",
+      "pid": "pm_5z63pung5q"
+    },
+    {
+      "t": "Staryu [1st Edition] #65",
+      "ss": "pokemon-base-set",
+      "cs": "staryu-1st-edition-65",
+      "href": "pokemon-base-set/staryu-1st-edition-65",
+      "pid": "pm_ikdmeuwwup"
+    },
+    {
+      "t": "Super Potion #90",
+      "ss": "pokemon-base-set",
+      "cs": "super-potion-90",
+      "href": "pokemon-base-set/super-potion-90",
+      "pid": "pm_btnja2s5rs"
+    },
+    {
+      "t": "Switch #95",
+      "ss": "pokemon-base-set",
+      "cs": "switch-95",
+      "href": "pokemon-base-set/switch-95",
+      "pid": "pm_5onucrytya"
+    },
+    {
+      "t": "Venusaur #15",
+      "ss": "pokemon-base-set",
+      "cs": "venusaur-15",
+      "href": "pokemon-base-set/venusaur-15",
+      "pid": "pm_upskuqbn3f",
+      "p": 5750,
+      "sb": true
+    },
+    {
+      "t": "Vulpix #68",
+      "ss": "pokemon-base-set",
+      "cs": "vulpix-68",
+      "href": "pokemon-base-set/vulpix-68",
+      "pid": "pm_6i3ncjq5bi"
+    },
+    {
+      "t": "Wartortle #42",
+      "ss": "pokemon-base-set",
+      "cs": "wartortle-42",
+      "href": "pokemon-base-set/wartortle-42",
+      "pid": "pm_qj5xy6omkk"
+    },
+    {
+      "t": "Wartortle [1st Edition] #42",
+      "ss": "pokemon-base-set",
+      "cs": "wartortle-1st-edition-42",
+      "href": "pokemon-base-set/wartortle-1st-edition-42",
+      "pid": "pm_72skmggxuk"
+    },
+    {
+      "t": "Weedle #69",
+      "ss": "pokemon-base-set",
+      "cs": "weedle-69",
+      "href": "pokemon-base-set/weedle-69",
+      "pid": "pm_fypioqwrff"
+    },
+    {
+      "t": "Zapdos #16",
+      "ss": "pokemon-base-set",
+      "cs": "zapdos-16",
+      "href": "pokemon-base-set/zapdos-16",
+      "pid": "pm_a7g7wlujdc",
+      "p": 2000,
+      "sb": true
+    },
+    {
+      "t": "Kyogre EX #104",
+      "ss": "pokemon-dark-explorers",
+      "cs": "kyogre-ex-104",
+      "href": "pokemon-dark-explorers/kyogre-ex-104",
+      "pid": "pm_mj7l3s5zto"
+    },
+    {
+      "t": "Umbreon #61",
+      "ss": "pokemon-dark-explorers",
+      "cs": "umbreon-61",
+      "href": "pokemon-dark-explorers/umbreon-61",
+      "pid": "pm_ec73f2mzx3"
+    },
+    {
+      "t": "Blaine's Moltres #1",
+      "ss": "pokemon-gym-heroes",
+      "cs": "blaine's-moltres-1",
+      "href": "pokemon-gym-heroes/blaine's-moltres-1",
+      "pid": "pm_5wpebesdb3"
+    },
+    {
+      "t": "Brock #15",
+      "ss": "pokemon-gym-heroes",
+      "cs": "brock-15",
+      "href": "pokemon-gym-heroes/brock-15",
+      "pid": "pm_pg7m3kxeur"
+    },
+    {
+      "t": "Brock's Mankey [1st Edition] #67",
+      "ss": "pokemon-gym-heroes",
+      "cs": "brock's-mankey-1st-edition-67",
+      "href": "pokemon-gym-heroes/brock's-mankey-1st-edition-67",
+      "pid": "pm_auxscnvmgl"
+    },
+    {
+      "t": "Brock's Onix #69",
+      "ss": "pokemon-gym-heroes",
+      "cs": "brock's-onix-69",
+      "href": "pokemon-gym-heroes/brock's-onix-69",
+      "pid": "pm_5hdohoatau"
+    },
+    {
+      "t": "Brock's Rhydon #2",
+      "ss": "pokemon-gym-heroes",
+      "cs": "brock's-rhydon-2",
+      "href": "pokemon-gym-heroes/brock's-rhydon-2",
+      "pid": "pm_nwq7iyqkzr",
+      "p": 1050,
+      "sb": true
+    },
+    {
+      "t": "Brock's Vulpix #73",
+      "ss": "pokemon-gym-heroes",
+      "cs": "brock's-vulpix-73",
+      "href": "pokemon-gym-heroes/brock's-vulpix-73",
+      "pid": "pm_yictvb7cnb"
+    },
+    {
+      "t": "Erika #16",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika-16",
+      "href": "pokemon-gym-heroes/erika-16",
+      "pid": "pm_frmmi2nutu"
+    },
+    {
+      "t": "Erika's Dragonair #4",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika's-dragonair-4",
+      "href": "pokemon-gym-heroes/erika's-dragonair-4",
+      "pid": "pm_yzj3evek2t"
+    },
+    {
+      "t": "Erika's Dragonair [1st Edition] #4",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika's-dragonair-1st-edition-4",
+      "href": "pokemon-gym-heroes/erika's-dragonair-1st-edition-4",
+      "pid": "pm_q2uxvhdkr3"
+    },
+    {
+      "t": "Erika's Oddish #78",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika's-oddish-78",
+      "href": "pokemon-gym-heroes/erika's-oddish-78",
+      "pid": "pm_6ydkmbbre5"
+    },
+    {
+      "t": "Erika's Oddish [1st Edition] #47",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika's-oddish-1st-edition-47",
+      "href": "pokemon-gym-heroes/erika's-oddish-1st-edition-47",
+      "pid": "pm_gfinmrqade"
+    },
+    {
+      "t": "Erika's Oddish [1st Edition] #78",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika's-oddish-1st-edition-78",
+      "href": "pokemon-gym-heroes/erika's-oddish-1st-edition-78",
+      "pid": "pm_zwbofajo4h"
+    },
+    {
+      "t": "Erika's Weepinbell #49",
+      "ss": "pokemon-gym-heroes",
+      "cs": "erika's-weepinbell-49",
+      "href": "pokemon-gym-heroes/erika's-weepinbell-49",
+      "pid": "pm_mdtgzihvjy"
+    },
+    {
+      "t": "Lt. Surge's Fearow #7",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-fearow-7",
+      "href": "pokemon-gym-heroes/lt-surge's-fearow-7",
+      "pid": "pm_p5jhaqig6e"
+    },
+    {
+      "t": "Lt. Surge's Magnemite #80",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-magnemite-80",
+      "href": "pokemon-gym-heroes/lt-surge's-magnemite-80",
+      "pid": "pm_khwtxhnqul"
+    },
+    {
+      "t": "Lt. Surge's Magneton #8",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-magneton-8",
+      "href": "pokemon-gym-heroes/lt-surge's-magneton-8",
+      "pid": "pm_4uecvwenus"
+    },
+    {
+      "t": "Lt. Surge's Pikachu #81",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-pikachu-81",
+      "href": "pokemon-gym-heroes/lt-surge's-pikachu-81",
+      "pid": "pm_u5xfke4xx2",
+      "p": 1029,
+      "sb": true
+    },
+    {
+      "t": "Lt. Surge's Pikachu [1st Edition] #81",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-pikachu-1st-edition-81",
+      "href": "pokemon-gym-heroes/lt-surge's-pikachu-1st-edition-81",
+      "pid": "pm_63iesi7nld"
+    },
+    {
+      "t": "Lt. Surge's Treaty [1st Edition] #112",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-treaty-1st-edition-112",
+      "href": "pokemon-gym-heroes/lt-surge's-treaty-1st-edition-112",
+      "pid": "pm_mv34itv6l6"
+    },
+    {
+      "t": "Lt. Surge's Voltorb [1st Edition] #84",
+      "ss": "pokemon-gym-heroes",
+      "cs": "lt-surge's-voltorb-1st-edition-84",
+      "href": "pokemon-gym-heroes/lt-surge's-voltorb-1st-edition-84",
+      "pid": "pm_3piituetoa"
+    },
+    {
+      "t": "Misty #18",
+      "ss": "pokemon-gym-heroes",
+      "cs": "misty-18",
+      "href": "pokemon-gym-heroes/misty-18",
+      "pid": "pm_ohf6aurjzj",
+      "p": 1450,
+      "sb": true
+    },
+    {
+      "t": "Misty's Seadra [Pre-Release] #9",
+      "ss": "pokemon-gym-heroes",
+      "cs": "misty's-seadra-pre-release-9",
+      "href": "pokemon-gym-heroes/misty's-seadra-pre-release-9",
+      "pid": "pm_5remswyx6w"
+    },
+    {
+      "t": "Misty's Tentacruel #10",
+      "ss": "pokemon-gym-heroes",
+      "cs": "misty's-tentacruel-10",
+      "href": "pokemon-gym-heroes/misty's-tentacruel-10",
+      "pid": "pm_ecfg26ueuw"
+    },
+    {
+      "t": "Rocket's Hitmonchan #11",
+      "ss": "pokemon-gym-heroes",
+      "cs": "rocket's-hitmonchan-11",
+      "href": "pokemon-gym-heroes/rocket's-hitmonchan-11",
+      "pid": "pm_rnavithhl4"
+    },
+    {
+      "t": "Rocket's Moltres #12",
+      "ss": "pokemon-gym-heroes",
+      "cs": "rocket's-moltres-12",
+      "href": "pokemon-gym-heroes/rocket's-moltres-12",
+      "pid": "pm_y422ujpfy7"
+    },
+    {
+      "t": "Rocket's Snorlax #33",
+      "ss": "pokemon-gym-heroes",
+      "cs": "rocket's-snorlax-33",
+      "href": "pokemon-gym-heroes/rocket's-snorlax-33",
+      "pid": "pm_e6xx37ufqs"
+    },
+    {
+      "t": "Sabrina's Gastly #93",
+      "ss": "pokemon-gym-heroes",
+      "cs": "sabrina's-gastly-93",
+      "href": "pokemon-gym-heroes/sabrina's-gastly-93",
+      "pid": "pm_nxd7nb4mzj"
+    },
+    {
+      "t": "Sabrina's Gengar #14",
+      "ss": "pokemon-gym-heroes",
+      "cs": "sabrina's-gengar-14",
+      "href": "pokemon-gym-heroes/sabrina's-gengar-14",
+      "pid": "pm_peatw7eesq"
+    },
+    {
+      "t": "Sabrina's Gengar [1st Edition] #14",
+      "ss": "pokemon-gym-heroes",
+      "cs": "sabrina's-gengar-1st-edition-14",
+      "href": "pokemon-gym-heroes/sabrina's-gengar-1st-edition-14",
+      "pid": "pm_7ok7onmakk"
+    },
+    {
+      "t": "Sabrina's Haunter #58",
+      "ss": "pokemon-gym-heroes",
+      "cs": "sabrina's-haunter-58",
+      "href": "pokemon-gym-heroes/sabrina's-haunter-58",
+      "pid": "pm_lrz6svfwbp"
+    },
+    {
+      "t": "Aipom #26",
+      "ss": "pokemon-neo-genesis",
+      "cs": "aipom-26",
+      "href": "pokemon-neo-genesis/aipom-26",
+      "pid": "pm_5rc5qsznus"
+    },
+    {
+      "t": "Ampharos #1",
+      "ss": "pokemon-neo-genesis",
+      "cs": "ampharos-1",
+      "href": "pokemon-neo-genesis/ampharos-1",
+      "pid": "pm_stzohpchl4"
+    },
+    {
+      "t": "Azumarill [1st Edition] #2",
+      "ss": "pokemon-neo-genesis",
+      "cs": "azumarill-1st-edition-2",
+      "href": "pokemon-neo-genesis/azumarill-1st-edition-2",
+      "pid": "pm_ikfcetjjtt"
+    },
+    {
+      "t": "Bayleef #29",
+      "ss": "pokemon-neo-genesis",
+      "cs": "bayleef-29",
+      "href": "pokemon-neo-genesis/bayleef-29",
+      "pid": "pm_uxm2mzqdxn"
+    },
+    {
+      "t": "Berry #99",
+      "ss": "pokemon-neo-genesis",
+      "cs": "berry-99",
+      "href": "pokemon-neo-genesis/berry-99",
+      "pid": "pm_l3absdk4zo"
+    },
+    {
+      "t": "Bill's Teleporter [1st Edition] #91",
+      "ss": "pokemon-neo-genesis",
+      "cs": "bill's-teleporter-1st-edition-91",
+      "href": "pokemon-neo-genesis/bill's-teleporter-1st-edition-91",
+      "pid": "pm_qgf5ad54ar"
+    },
+    {
+      "t": "Cyndaquil #57",
+      "ss": "pokemon-neo-genesis",
+      "cs": "cyndaquil-57",
+      "href": "pokemon-neo-genesis/cyndaquil-57",
+      "pid": "pm_xninplvu4w"
+    },
+    {
+      "t": "Ecogym #84",
+      "ss": "pokemon-neo-genesis",
+      "cs": "ecogym-84",
+      "href": "pokemon-neo-genesis/ecogym-84",
+      "pid": "pm_e5deugbviw"
+    },
+    {
+      "t": "Feraligatr [1st Edition] #4",
+      "ss": "pokemon-neo-genesis",
+      "cs": "feraligatr-1st-edition-4",
+      "href": "pokemon-neo-genesis/feraligatr-1st-edition-4",
+      "pid": "pm_7kska77ind"
+    },
+    {
+      "t": "Girafarig #58",
+      "ss": "pokemon-neo-genesis",
+      "cs": "girafarig-58",
+      "href": "pokemon-neo-genesis/girafarig-58",
+      "pid": "pm_v4iyzlkc6l"
+    },
+    {
+      "t": "Girafarig [1st Edition] #58",
+      "ss": "pokemon-neo-genesis",
+      "cs": "girafarig-1st-edition-58",
+      "href": "pokemon-neo-genesis/girafarig-1st-edition-58",
+      "pid": "pm_wcrskb34zu"
+    },
+    {
+      "t": "Heracross #6",
+      "ss": "pokemon-neo-genesis",
+      "cs": "heracross-6",
+      "href": "pokemon-neo-genesis/heracross-6",
+      "pid": "pm_dn4wif62vh"
+    },
+    {
+      "t": "Heracross [1st Edition] #6",
+      "ss": "pokemon-neo-genesis",
+      "cs": "heracross-1st-edition-6",
+      "href": "pokemon-neo-genesis/heracross-1st-edition-6",
+      "pid": "pm_hm56t4is76"
+    },
+    {
+      "t": "Jumpluff #7",
+      "ss": "pokemon-neo-genesis",
+      "cs": "jumpluff-7",
+      "href": "pokemon-neo-genesis/jumpluff-7",
+      "pid": "pm_xu555po774"
+    },
+    {
+      "t": "Kingdra #8",
+      "ss": "pokemon-neo-genesis",
+      "cs": "kingdra-8",
+      "href": "pokemon-neo-genesis/kingdra-8",
+      "pid": "pm_4naqfo3biy"
+    },
+    {
+      "t": "Lugia #9",
+      "ss": "pokemon-neo-genesis",
+      "cs": "lugia-9",
+      "href": "pokemon-neo-genesis/lugia-9",
+      "pid": "pm_wrwtq6qsbs"
+    },
+    {
+      "t": "Meganium #10",
+      "ss": "pokemon-neo-genesis",
+      "cs": "meganium-10",
+      "href": "pokemon-neo-genesis/meganium-10",
+      "pid": "pm_szhfrrxwoj"
+    },
+    {
+      "t": "Meganium [1st Edition] #10",
+      "ss": "pokemon-neo-genesis",
+      "cs": "meganium-1st-edition-10",
+      "href": "pokemon-neo-genesis/meganium-1st-edition-10",
+      "pid": "pm_t7om7e4qde"
+    },
+    {
+      "t": "Metal Energy [1st Edition] #19",
+      "ss": "pokemon-neo-genesis",
+      "cs": "metal-energy-1st-edition-19",
+      "href": "pokemon-neo-genesis/metal-energy-1st-edition-19",
+      "pid": "pm_htxtptmomb"
+    },
+    {
+      "t": "Pichu [1st Edition] #12",
+      "ss": "pokemon-neo-genesis",
+      "cs": "pichu-1st-edition-12",
+      "href": "pokemon-neo-genesis/pichu-1st-edition-12",
+      "pid": "pm_t4mzhl52sc"
+    },
+    {
+      "t": "Seadra #48",
+      "ss": "pokemon-neo-genesis",
+      "cs": "seadra-48",
+      "href": "pokemon-neo-genesis/seadra-48",
+      "pid": "pm_k2maxa4hsb"
+    },
+    {
+      "t": "Shuckle #72",
+      "ss": "pokemon-neo-genesis",
+      "cs": "shuckle-72",
+      "href": "pokemon-neo-genesis/shuckle-72",
+      "pid": "pm_nizko7taql"
+    },
+    {
+      "t": "Skarmory #13",
+      "ss": "pokemon-neo-genesis",
+      "cs": "skarmory-13",
+      "href": "pokemon-neo-genesis/skarmory-13",
+      "pid": "pm_h4b7wvlcao"
+    },
+    {
+      "t": "Slowking [1st Edition] #14",
+      "ss": "pokemon-neo-genesis",
+      "cs": "slowking-1st-edition-14",
+      "href": "pokemon-neo-genesis/slowking-1st-edition-14",
+      "pid": "pm_xahzawr76h",
+      "p": 67700,
+      "sb": true
+    },
+    {
+      "t": "Super Energy Retrieval #89",
+      "ss": "pokemon-neo-genesis",
+      "cs": "super-energy-retrieval-89",
+      "href": "pokemon-neo-genesis/super-energy-retrieval-89",
+      "pid": "pm_e4qtqfxfn4"
+    },
+    {
+      "t": "Time Capsule #90",
+      "ss": "pokemon-neo-genesis",
+      "cs": "time-capsule-90",
+      "href": "pokemon-neo-genesis/time-capsule-90",
+      "pid": "pm_cvdb66awx5"
+    },
+    {
+      "t": "Togetic [1st Edition] #16",
+      "ss": "pokemon-neo-genesis",
+      "cs": "togetic-1st-edition-16",
+      "href": "pokemon-neo-genesis/togetic-1st-edition-16",
+      "pid": "pm_zfrlsg3wb6"
+    },
+    {
+      "t": "Typhlosion #17",
+      "ss": "pokemon-neo-genesis",
+      "cs": "typhlosion-17",
+      "href": "pokemon-neo-genesis/typhlosion-17",
+      "pid": "pm_aibo3d2qlb"
+    },
+    {
+      "t": "Typhlosion [1st Edition] #17",
+      "ss": "pokemon-neo-genesis",
+      "cs": "typhlosion-1st-edition-17",
+      "href": "pokemon-neo-genesis/typhlosion-1st-edition-17",
+      "pid": "pm_ami7ciqvxj"
+    },
+    {
+      "t": "Abra [1st Edition] #49",
+      "ss": "pokemon-team-rocket",
+      "cs": "abra-1st-edition-49",
+      "href": "pokemon-team-rocket/abra-1st-edition-49",
+      "pid": "pm_pcxrvlzo5j"
+    },
+    {
+      "t": "Charmander #50",
+      "ss": "pokemon-team-rocket",
+      "cs": "charmander-50",
+      "href": "pokemon-team-rocket/charmander-50",
+      "pid": "pm_kpwk474q7z"
+    },
+    {
+      "t": "Charmander [1st Edition] #50",
+      "ss": "pokemon-team-rocket",
+      "cs": "charmander-1st-edition-50",
+      "href": "pokemon-team-rocket/charmander-1st-edition-50",
+      "pid": "pm_gql4nc3dq2"
+    },
+    {
+      "t": "Dark Alakazam #1",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-alakazam-1",
+      "href": "pokemon-team-rocket/dark-alakazam-1",
+      "pid": "pm_uhfocphd35"
+    },
+    {
+      "t": "Dark Arbok #2",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-arbok-2",
+      "href": "pokemon-team-rocket/dark-arbok-2",
+      "pid": "pm_7bqyqjvxvp"
+    },
+    {
+      "t": "Dark Blastoise [1st Edition] #3",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-blastoise-1st-edition-3",
+      "href": "pokemon-team-rocket/dark-blastoise-1st-edition-3",
+      "pid": "pm_demg5znfg5"
+    },
+    {
+      "t": "Dark Charizard #21",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-charizard-21",
+      "href": "pokemon-team-rocket/dark-charizard-21",
+      "pid": "pm_u233mwrjgi"
+    },
+    {
+      "t": "Dark Charizard #4",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-charizard-4",
+      "href": "pokemon-team-rocket/dark-charizard-4",
+      "pid": "pm_2uekcyqql3",
+      "p": 19750,
+      "sb": true
+    },
+    {
+      "t": "Dark Charizard [1st Edition] #21",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-charizard-1st-edition-21",
+      "href": "pokemon-team-rocket/dark-charizard-1st-edition-21",
+      "pid": "pm_l5ui3okjfk"
+    },
+    {
+      "t": "Dark Charmeleon #32",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-charmeleon-32",
+      "href": "pokemon-team-rocket/dark-charmeleon-32",
+      "pid": "pm_jzfrwojphe"
+    },
+    {
+      "t": "Dark Dragonair #33",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-dragonair-33",
+      "href": "pokemon-team-rocket/dark-dragonair-33",
+      "pid": "pm_slu6uta66c"
+    },
+    {
+      "t": "Dark Dragonite #22",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-dragonite-22",
+      "href": "pokemon-team-rocket/dark-dragonite-22",
+      "pid": "pm_2tvh5tyxwm"
+    },
+    {
+      "t": "Dark Dragonite [1st Edition] #22",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-dragonite-1st-edition-22",
+      "href": "pokemon-team-rocket/dark-dragonite-1st-edition-22",
+      "pid": "pm_rhwjxfm3tp"
+    },
+    {
+      "t": "Dark Dragonite [1st Edition] #5",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-dragonite-1st-edition-5",
+      "href": "pokemon-team-rocket/dark-dragonite-1st-edition-5",
+      "pid": "pm_malvpjs7mm"
+    },
+    {
+      "t": "Dark Dugtrio #6",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-dugtrio-6",
+      "href": "pokemon-team-rocket/dark-dugtrio-6",
+      "pid": "pm_kpqiaqwhbp"
+    },
+    {
+      "t": "Dark Electrode #34",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-electrode-34",
+      "href": "pokemon-team-rocket/dark-electrode-34",
+      "pid": "pm_ajiascyybz"
+    },
+    {
+      "t": "Dark Flareon [1st Edition] #35",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-flareon-1st-edition-35",
+      "href": "pokemon-team-rocket/dark-flareon-1st-edition-35",
+      "pid": "pm_vt6prqqgty"
+    },
+    {
+      "t": "Dark Gloom [1st Edition] #36",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-gloom-1st-edition-36",
+      "href": "pokemon-team-rocket/dark-gloom-1st-edition-36",
+      "pid": "pm_t7xrsyqrvi"
+    },
+    {
+      "t": "Dark Golduck #37",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-golduck-37",
+      "href": "pokemon-team-rocket/dark-golduck-37",
+      "pid": "pm_c5j6x5ppls"
+    },
+    {
+      "t": "Dark Gyarados [1st Edition] #8",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-gyarados-1st-edition-8",
+      "href": "pokemon-team-rocket/dark-gyarados-1st-edition-8",
+      "pid": "pm_eim2jp6k63"
+    },
+    {
+      "t": "Dark Gyarados [Prerelease] #8",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-gyarados-prerelease-8",
+      "href": "pokemon-team-rocket/dark-gyarados-prerelease-8",
+      "pid": "pm_vr2eebtxbp"
+    },
+    {
+      "t": "Dark Kadabra [1st Edition] #39",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-kadabra-1st-edition-39",
+      "href": "pokemon-team-rocket/dark-kadabra-1st-edition-39",
+      "pid": "pm_h4n3n74vnx"
+    },
+    {
+      "t": "Dark Machamp [1st Edition] #10",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-machamp-1st-edition-10",
+      "href": "pokemon-team-rocket/dark-machamp-1st-edition-10",
+      "pid": "pm_ebigz3cyh7"
+    },
+    {
+      "t": "Dark Magneton #11",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-magneton-11",
+      "href": "pokemon-team-rocket/dark-magneton-11",
+      "pid": "pm_esrlllp2bv"
+    },
+    {
+      "t": "Dark Magneton #28",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-magneton-28",
+      "href": "pokemon-team-rocket/dark-magneton-28",
+      "pid": "pm_odkwx2hu6f"
+    },
+    {
+      "t": "Dark Muk #41",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-muk-41",
+      "href": "pokemon-team-rocket/dark-muk-41",
+      "pid": "pm_6ttevzkyji"
+    },
+    {
+      "t": "Dark Primeape #43",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-primeape-43",
+      "href": "pokemon-team-rocket/dark-primeape-43",
+      "pid": "pm_7ekamy2zry"
+    },
+    {
+      "t": "Dark Primeape [1st Edition] #43",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-primeape-1st-edition-43",
+      "href": "pokemon-team-rocket/dark-primeape-1st-edition-43",
+      "pid": "pm_ecfp3uw6pu"
+    },
+    {
+      "t": "Dark Raichu #83",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-raichu-83",
+      "href": "pokemon-team-rocket/dark-raichu-83",
+      "pid": "pm_eguvbi7o7r"
+    },
+    {
+      "t": "Dark Raichu [1st Edition] #83",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-raichu-1st-edition-83",
+      "href": "pokemon-team-rocket/dark-raichu-1st-edition-83",
+      "pid": "pm_zo2376nigf"
+    },
+    {
+      "t": "Dark Rapidash #44",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-rapidash-44",
+      "href": "pokemon-team-rocket/dark-rapidash-44",
+      "pid": "pm_3xxujhcnmq"
+    },
+    {
+      "t": "Dark Rapidash [1st Edition] #44",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-rapidash-1st-edition-44",
+      "href": "pokemon-team-rocket/dark-rapidash-1st-edition-44",
+      "pid": "pm_uzhqpyfuzg"
+    },
+    {
+      "t": "Dark Raticate #51",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-raticate-51",
+      "href": "pokemon-team-rocket/dark-raticate-51",
+      "pid": "pm_odnhekrjht"
+    },
+    {
+      "t": "Dark Raticate [1st Edition] #51",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-raticate-1st-edition-51",
+      "href": "pokemon-team-rocket/dark-raticate-1st-edition-51",
+      "pid": "pm_i4kgtopcp5"
+    },
+    {
+      "t": "Dark Vaporeon [1st Edition] #45",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-vaporeon-1st-edition-45",
+      "href": "pokemon-team-rocket/dark-vaporeon-1st-edition-45",
+      "pid": "pm_fubcqswswv"
+    },
+    {
+      "t": "Dark Vileplume #13",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-vileplume-13",
+      "href": "pokemon-team-rocket/dark-vileplume-13",
+      "pid": "pm_7hekctqlnf"
+    },
+    {
+      "t": "Dark Vileplume [1st Edition] #30",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-vileplume-1st-edition-30",
+      "href": "pokemon-team-rocket/dark-vileplume-1st-edition-30",
+      "pid": "pm_33zmvehzkr"
+    },
+    {
+      "t": "Dark Wartortle #46",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-wartortle-46",
+      "href": "pokemon-team-rocket/dark-wartortle-46",
+      "pid": "pm_itav3qzzwp"
+    },
+    {
+      "t": "Dark Weezing #14",
+      "ss": "pokemon-team-rocket",
+      "cs": "dark-weezing-14",
+      "href": "pokemon-team-rocket/dark-weezing-14",
+      "pid": "pm_z47k3hzmhw"
+    },
+    {
+      "t": "Diglett [1st Edition] #52",
+      "ss": "pokemon-team-rocket",
+      "cs": "diglett-1st-edition-52",
+      "href": "pokemon-team-rocket/diglett-1st-edition-52",
+      "pid": "pm_rjbj46qlcf"
+    },
+    {
+      "t": "Dratini #53",
+      "ss": "pokemon-team-rocket",
+      "cs": "dratini-53",
+      "href": "pokemon-team-rocket/dratini-53",
+      "pid": "pm_bzteombqe6"
+    },
+    {
+      "t": "Drowzee [1st Edition] #54",
+      "ss": "pokemon-team-rocket",
+      "cs": "drowzee-1st-edition-54",
+      "href": "pokemon-team-rocket/drowzee-1st-edition-54",
+      "pid": "pm_e62y676qe4"
+    },
+    {
+      "t": "Ekans [1st Edition] #56",
+      "ss": "pokemon-team-rocket",
+      "cs": "ekans-1st-edition-56",
+      "href": "pokemon-team-rocket/ekans-1st-edition-56",
+      "pid": "pm_6r4skvsgvu"
+    },
+    {
+      "t": "Goop Gas Attack [1st Edition] #78",
+      "ss": "pokemon-team-rocket",
+      "cs": "goop-gas-attack-1st-edition-78",
+      "href": "pokemon-team-rocket/goop-gas-attack-1st-edition-78",
+      "pid": "pm_btmmunfwjf"
+    },
+    {
+      "t": "Grimer #57",
+      "ss": "pokemon-team-rocket",
+      "cs": "grimer-57",
+      "href": "pokemon-team-rocket/grimer-57",
+      "pid": "pm_acs4qohlqm"
+    },
+    {
+      "t": "Here Comes Team Rocket #71",
+      "ss": "pokemon-team-rocket",
+      "cs": "here-comes-team-rocket-71",
+      "href": "pokemon-team-rocket/here-comes-team-rocket-71",
+      "pid": "pm_isl6z4mwva"
+    },
+    {
+      "t": "Here Comes Team Rocket [1st Edition] #15",
+      "ss": "pokemon-team-rocket",
+      "cs": "here-comes-team-rocket-1st-edition-15",
+      "href": "pokemon-team-rocket/here-comes-team-rocket-1st-edition-15",
+      "pid": "pm_gausgwxxch"
+    },
+    {
+      "t": "Imposter Oak's Revenge #76",
+      "ss": "pokemon-team-rocket",
+      "cs": "imposter-oak's-revenge-76",
+      "href": "pokemon-team-rocket/imposter-oak's-revenge-76",
+      "pid": "pm_4ph6rjd2ia"
+    },
+    {
+      "t": "Machop [1st Edition] #59",
+      "ss": "pokemon-team-rocket",
+      "cs": "machop-1st-edition-59",
+      "href": "pokemon-team-rocket/machop-1st-edition-59",
+      "pid": "pm_u4zdyob2jb"
+    },
+    {
+      "t": "Magnemite #60",
+      "ss": "pokemon-team-rocket",
+      "cs": "magnemite-60",
+      "href": "pokemon-team-rocket/magnemite-60",
+      "pid": "pm_d55634df3j"
+    },
+    {
+      "t": "Magnemite [1st Edition] #60",
+      "ss": "pokemon-team-rocket",
+      "cs": "magnemite-1st-edition-60",
+      "href": "pokemon-team-rocket/magnemite-1st-edition-60",
+      "pid": "pm_6r6ve6xa3e"
+    },
+    {
+      "t": "Meowth #62",
+      "ss": "pokemon-team-rocket",
+      "cs": "meowth-62",
+      "href": "pokemon-team-rocket/meowth-62",
+      "pid": "pm_6quyjrj23g"
+    },
+    {
+      "t": "Meowth [1st Edition] #62",
+      "ss": "pokemon-team-rocket",
+      "cs": "meowth-1st-edition-62",
+      "href": "pokemon-team-rocket/meowth-1st-edition-62",
+      "pid": "pm_di3oqfzzu7"
+    },
+    {
+      "t": "Oddish #63",
+      "ss": "pokemon-team-rocket",
+      "cs": "oddish-63",
+      "href": "pokemon-team-rocket/oddish-63",
+      "pid": "pm_za4qh5omyq"
+    },
+    {
+      "t": "Porygon [1st Edition] #48",
+      "ss": "pokemon-team-rocket",
+      "cs": "porygon-1st-edition-48",
+      "href": "pokemon-team-rocket/porygon-1st-edition-48",
+      "pid": "pm_u3uuipeu2z"
+    },
+    {
+      "t": "Psyduck #65",
+      "ss": "pokemon-team-rocket",
+      "cs": "psyduck-65",
+      "href": "pokemon-team-rocket/psyduck-65",
+      "pid": "pm_24vkiut64g"
+    },
+    {
+      "t": "Psyduck [1st Edition] #65",
+      "ss": "pokemon-team-rocket",
+      "cs": "psyduck-1st-edition-65",
+      "href": "pokemon-team-rocket/psyduck-1st-edition-65",
+      "pid": "pm_t6jjznnihg"
+    },
+    {
+      "t": "Rainbow Energy #80",
+      "ss": "pokemon-team-rocket",
+      "cs": "rainbow-energy-80",
+      "href": "pokemon-team-rocket/rainbow-energy-80",
+      "pid": "pm_z3xc3ouwwa"
+    },
+    {
+      "t": "Rattata #66",
+      "ss": "pokemon-team-rocket",
+      "cs": "rattata-66",
+      "href": "pokemon-team-rocket/rattata-66",
+      "pid": "pm_5opq427edg"
+    },
+    {
+      "t": "Rocket's Sneak Attack #72",
+      "ss": "pokemon-team-rocket",
+      "cs": "rocket's-sneak-attack-72",
+      "href": "pokemon-team-rocket/rocket's-sneak-attack-72",
+      "pid": "pm_olwqseqhj5"
+    },
+    {
+      "t": "Slowpoke #67",
+      "ss": "pokemon-team-rocket",
+      "cs": "slowpoke-67",
+      "href": "pokemon-team-rocket/slowpoke-67",
+      "pid": "pm_jdukagcl5c"
+    },
+    {
+      "t": "Slowpoke [1st Edition] #67",
+      "ss": "pokemon-team-rocket",
+      "cs": "slowpoke-1st-edition-67",
+      "href": "pokemon-team-rocket/slowpoke-1st-edition-67",
+      "pid": "pm_7rxn3fdgcx"
+    },
+    {
+      "t": "Squirtle [1st Edition] #68",
+      "ss": "pokemon-team-rocket",
+      "cs": "squirtle-1st-edition-68",
+      "href": "pokemon-team-rocket/squirtle-1st-edition-68",
+      "pid": "pm_p7ziw6mdmk"
+    },
+    {
+      "t": "The Boss's Way #73",
+      "ss": "pokemon-team-rocket",
+      "cs": "the-boss's-way-73",
+      "href": "pokemon-team-rocket/the-boss's-way-73",
+      "pid": "pm_aqgiubpyo2"
+    },
+    {
+      "t": "Voltorb #69",
+      "ss": "pokemon-team-rocket",
+      "cs": "voltorb-69",
+      "href": "pokemon-team-rocket/voltorb-69",
+      "pid": "pm_f3syzzh3ju"
+    },
+    {
+      "t": "Zubat #70",
+      "ss": "pokemon-team-rocket",
+      "cs": "zubat-70",
+      "href": "pokemon-team-rocket/zubat-70",
+      "pid": "pm_srn6drpthd"
+    }
+  ]
+}

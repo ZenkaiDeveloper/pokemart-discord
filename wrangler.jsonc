@@ -1,0 +1,24 @@
+/**
+ * PokeMart Discord bot (M1.12 / PM-173).
+ * Cloudflare Worker — Discord HTTP interactions only (no gateway).
+ *
+ * Deploy (Andy's Mac after wrangler login):
+ *   cd public_site/worker/pokemart-discord
+ *   npx wrangler secret put DISCORD_PUBLIC_KEY
+ *   npx wrangler secret put DISCORD_APPLICATION_ID
+ *   npx wrangler secret put DISCORD_BOT_TOKEN   # register-commands only; optional at runtime
+ *   npx wrangler deploy
+ * Then set Interactions Endpoint URL in the Discord Developer Portal to the Worker URL.
+ */
+{
+  "name": "pokemart-discord",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-25",
+  "workers_dev": true,
+  "vars": {
+    "STATIC_BASE": "https://pokemart.online",
+    "BOT_SHOW_IMAGES": "false",
+    "CACHE_TTL_SECONDS": "3600",
+    "DEFER_AFTER_MS": "2000"
+  }
+}

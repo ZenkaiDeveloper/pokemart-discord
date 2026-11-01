@@ -1,0 +1,16 @@
+{
+  "name": "pokemart-discord",
+  "version": "1.0.0",
+  "private": false,
+  "description": "PokeMart Discord bot — HTTP interactions Worker (MIT)",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "register": "node scripts/register-commands.mjs",
+    "deploy": "npx wrangler deploy"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
